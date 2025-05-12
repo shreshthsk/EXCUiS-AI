@@ -37,7 +37,7 @@ The system uses FAISS to match user queries with preprocessed recipe embeddings 
 | `3_Chatbot_Development/`      | Recipe generation based on user input (dish name or region) using FAISS + Mistral LLM |
 
 ---
-'''
+```
 Excuis-AI/
 ├── LICENSE
 ├── README.md
@@ -57,7 +57,7 @@ Excuis-AI/
     ├── 1_Feature_Engineering/
     ├── 2_Data_Processing/
     └── 3_Chatbot_Development/
-'''
+```
 
 ## 💬 Demo
 
