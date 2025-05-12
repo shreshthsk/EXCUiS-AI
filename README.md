@@ -109,7 +109,7 @@ This video was submitted as part of the academic evaluation and gives an end-to-
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](./License) file for details.
 
 Open for academic and educational purposes. You are allowed to use, modify, and distribute this code under the terms of the Apache 2.0 License.
 
