@@ -37,30 +37,27 @@ The system uses FAISS to match user queries with preprocessed recipe embeddings 
 | `3_Chatbot_Development/`      | Recipe generation based on user input (dish name or region) using FAISS + Mistral LLM |
 
 ---
-
-## 📁 Directory Overview
-
+'''
 Excuis-AI/
-├── Phase-1_Data_Preparation/
-│   ├── 1_Data_Retrieval/
-│   ├── 2_Data_Cleaning_Processing/
-│   ├── 3_Exploratory_Data_Analysis/
-│   ├── 4_Flavor_Mapping/
-│   └── 5_Hypothesis_Testing/
-├── Phase-2_Modeling_and_Chatbot/
-│   ├── 1_Feature_Engineering/
-│   ├── 2_Data_Processing/
-│   └── 3_Chatbot_Development/
+├── LICENSE
+├── README.md
 ├── Demo/
 │   └── chatbot_demo.mp4
 ├── Docs/
 │   ├── ExcuisAI_Project_Presentation.mp4
 │   ├── ExcuisAI_Project_Report.pdf
 │   └── ExcuisAI_Future_Blueprint.mp4
-├── README.md
-├── LICENSE
-
----
+├── Phase-1_Data_Preparation/
+│   ├── 1_Data_Retrieval/
+│   ├── 2_Data_Cleaning_Processing/
+│   ├── 3_Exploratory_Data_Analysis/
+│   ├── 4_Flavor_Mapping/
+│   └── 5_Hypothesis_Testing/
+└── Phase-2_Modeling_and_Chatbot/
+    ├── 1_Feature_Engineering/
+    ├── 2_Data_Processing/
+    └── 3_Chatbot_Development/
+'''
 
 ## 💬 Demo
 
