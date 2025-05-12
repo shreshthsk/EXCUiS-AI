@@ -42,24 +42,23 @@ The system uses FAISS to match user queries with preprocessed recipe embeddings 
 
 Excuis-AI/
 ├── Phase-1_Data_Preparation/
-│ ├── 1_Data_Retrieval/
-│ ├── 2_Data_Cleaning_Processing/
-│ ├── 3_Exploratory_Data_Analysis/
-│ ├── 4_Flavor_Mapping/
-│ └── 5_Hypothesis_Testing/
+│   ├── 1_Data_Retrieval/
+│   ├── 2_Data_Cleaning_Processing/
+│   ├── 3_Exploratory_Data_Analysis/
+│   ├── 4_Flavor_Mapping/
+│   └── 5_Hypothesis_Testing/
 ├── Phase-2_Modeling_and_Chatbot/
-│ ├── 1_Feature_Engineering/
-│ ├── 2_Data_Processing/
-│ └── 3_Chatbot_Development/
+│   ├── 1_Feature_Engineering/
+│   ├── 2_Data_Processing/
+│   └── 3_Chatbot_Development/
 ├── Demo/
-│ └── chatbot_demo.mp4
+│   └── chatbot_demo.mp4
 ├── Docs/
-│ ├── ExcuisAI_Project_Presentation.mp4
-| ├── ExcuisAI_Project_Report.pdf 
-│ └── ExcuisAI_Future_Blueprint.mp4
+│   ├── ExcuisAI_Project_Presentation.mp4
+│   ├── ExcuisAI_Project_Report.pdf
+│   └── ExcuisAI_Future_Blueprint.mp4
 ├── README.md
-├── License
-
+├── LICENSE
 
 ---
 
@@ -111,7 +110,7 @@ This video illustrates the intended future state of Excuis AI, including UI idea
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](./License) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
 
 Open for academic and educational purposes. You are allowed to use, modify, and distribute this code under the terms of the Apache 2.0 License.
 
