@@ -56,7 +56,7 @@ Excuis-AI/
 ├── Docs/
 │ ├── ExcuisAI_Project_Presentation.mp4
 | ├── ExcuisAI_Project_Report.pdf 
-│ └── future_enhancement_notes.txt
+│ └── ExcuisAI_Future_Blueprint.mp4
 ├── README.md
 ├── License
 
@@ -79,22 +79,24 @@ Bot: *Returns a dish like Dhokla, with its recipe.*
 
 ---
 
-## 📊 Project Presentation
+## 📚 Project Documentation
 
-🎥 [Excuis AI – Final Project Walkthrough](./Docs/ExcuisAI_Project_Presentation.mp4)
+- 🎥 [Excuis AI – Final Project Presentation](./Docs/ExcuisAI_Project_Presentation.mp4)
+- 📄 [Excuis AI – Full Project Report (PDF)](./Docs/ExcuisAI_Project_Report.pdf)
 
-This video was submitted as part of the academic evaluation and gives an end-to-end walkthrough of the project.
+These documents cover both the development process and final insights for the Excuis AI chatbot project.
 
----
 
 ## 🚀 Future Enhancements
 
-- Add frontend UI (e.g., Streamlit or React interface)
-- Enable multi-turn conversations and follow-ups
-- Expand global recipe coverage
-- Train the chatbot on user preferences for smarter outputs
+- Add a frontend interface (e.g., Streamlit or React) for better user interaction
+- Enable multi-turn conversations and user context handling
+- Incorporate user feedback for more personalized recipe suggestions
+- Expand dataset to include global cuisines and fusion recipes
 
-📝 Notes: [future_enhancement_notes.txt](./Docs/future_enhancement_notes.txt)
+🎥 **Blueprint Video:** [Watch the Excuis AI Vision Demo](./Docs/ExcuisAI_Future_Blueprint.mp4)
+
+This video illustrates the intended future state of Excuis AI, including UI ideas, interactive flow, and chatbot enhancements.
 
 ---
 
